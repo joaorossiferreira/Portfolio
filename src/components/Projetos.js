@@ -34,15 +34,15 @@ const Projetos = () => {
       softSkills: [
         {
           name: 'Proatividade',
-          description: 'Mostrei evolução em proatividade ao longo do projeto. No início, eu demorava para começar as tarefas. Com o tempo, melhorei meu desempenho e passei a entregar resultados sem depender de cobranças, demonstrando progresso nessa habilidade.'
+          description: 'No início do projeto, demonstrei dificuldade com a proatividade: demorava para começar as atividades e, por isso, acabava atrasando o grupo todo, já que a parte em que trabalhei era crucial para o projeto. No entanto, com o passar das Sprints, principalmente na Sprint 2, tive um aumento considerável na minha proatividade. Embora o problema não tenha sido solucionado por completo – ainda tenho um pouco de dificuldade nesse quesito –, comparado ao início do projeto, já apresento avanços significativos.'
         },
         {
           name: 'Comunicação',
-          description: 'Enfrentei dificuldades para me comunicar, especialmente com a equipe de backend, devido a uma interação pouco eficaz entre as partes. No grupo como um todo, minha participação foi limitada, concentrando-se em reuniões e momentos específicos de colaboração no projeto.'
+          description: 'Na comunicação, não só eu, mas todo o grupo enfrentou muitas dificuldades, especialmente na interação entre o frontend e o backend. Esse foi um aspecto em que falhamos coletivamente, e eu, individualmente, também tive minha parcela de falha. Minha participação foi limitada, resumindo-se a presenças em reuniões e em alguns momentos específicos do projeto, o que impediu o desenvolvimento dessa minha habilidade.'
         },
         {
           name: 'Trabalho em Equipe',
-          description: 'O trabalho em equipe apresentou desafios no começo, mas evoluiu ao longo do tempo. Quando um colega precisava de apoio, eu me dispunha a ajudar. Da mesma forma, buscava orientação dos outros membros sempre que necessário ou quando identificava algo a ser aprimorado.'
+          description: 'Assim como na proatividade, o trabalho em equipe também foi um desafio inicial neste projeto. Embora eu tenha atuado com o mesmo grupo do projeto anterior, a mudança de Master exigiu um tempo de adaptação. No entanto, sempre me mantive disponível para oferecer e pedir ajuda quando necessário. A principal dificuldade que enfrentamos foi a falta de explicação no código e problemas com algumas especificidades. Com o tempo, consegui aprimorar esse aspecto, trabalhando ativamente e buscando auxílio dos colegas, o que resultou em uma melhora geral no meu trabalho em equipe, apesar das lacunas pontuais na comunicação.'
         }
       ]
     },
