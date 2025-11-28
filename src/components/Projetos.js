@@ -122,6 +122,45 @@ const Projetos = () => {
         }
       ]
     }
+    ,
+    {
+      id: 'skytrack',
+      title: 'SkyTrack - Sistema de Coleta Meteorológica',
+      description: (
+        <>
+          <p className="mb-4">
+            Atuei como desenvolvedor frontend neste projeto, que consistiu em criar um sistema completo de coleta de dados meteorológicos em tempo real, com foco na prevenção de riscos e desastres naturais. O backend foi desenvolvido pela equipe utilizando diversas tecnologias, enquanto concentrei meus esforços no design, prototipação e implementação do frontend com React e TypeScript.
+          </p>
+          <p>
+            Minhas responsabilidades incluíram a criação do painel de controle moderno e intuitivo, o desenvolvimento das interfaces para visualização dos dados captados por sensores, e a implementação do sistema de notificações proativo para alertar os usuários sobre potenciais riscos, como inundações e deslizamentos. Também fui responsável pelo espaço de conteúdo educacional, explicando de forma clara a lógica utilizada para captação e estimativa dos dados. Esse trabalho ampliou bastante minhas habilidades em design de interfaces, React e TypeScript.
+          </p>
+        </>
+      ),
+      details: [
+        'Desenvolvimento de painel de controle moderno para visualização dos dados meteorológicos.',
+        'Integração de sensores de baixo custo para coleta de dados em tempo real.',
+        'Implementação de sistema de notificações proativo para alertas de riscos naturais.',
+        'Criação de espaço educacional explicando a lógica de captação e estimativa de dados.',
+        'Modelo dinâmico para aceitação de diferentes tipos de estações meteorológicas.',
+        'Centralização e análise de dados oriundos de múltiplas fontes.'
+      ],
+      technologies: ['Jira', 'React', 'TypeScript', 'JavaScript', 'MongoDB', 'PostgreSQL', 'Arduino', 'Node.js'],
+      githubLink: 'https://github.com/Equipe-Skyfall/skytrack',
+      softSkills: [
+        {
+          name: 'Prevenção de Riscos',
+          description: 'Foco em antecipar e alertar sobre potenciais desastres naturais, promovendo segurança e agilidade na tomada de decisão.'
+        },
+        {
+          name: 'Trabalho em Equipe',
+          description: 'Colaboração entre diferentes áreas para integração de hardware, software e análise de dados.'
+        },
+        {
+          name: 'Comunicação',
+          description: 'Desenvolvimento de conteúdo educacional claro para usuários, facilitando o entendimento das informações apresentadas.'
+        }
+      ]
+    }
   ];
 
   return (
