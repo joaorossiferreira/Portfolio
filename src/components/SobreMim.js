@@ -98,7 +98,7 @@ const SobreMim = () => {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-amber-300 mb-1">Ensino Médio Completo</h3>
-                <p className="text-gray-300 font-medium mb-1">Prof. Nelson Ilza Nascimento Monteiro</p>
+                <p className="text-gray-300 font-medium mb-1">Prof. Nelson do Nascimento Monteiro</p>
                 <p className="text-gray-400 text-sm">2021 - 2023</p>
                 <p className="text-gray-300 mt-2">
                   Foi onde descobri minha paixão por tecnologia e comecei a dar meus primeiros passos em programação.
