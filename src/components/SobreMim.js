@@ -14,20 +14,20 @@ const SobreMim = () => {
 
         <div className="space-y-6 text-gray-300">
           <p className="text-lg leading-relaxed">
-            Me chamo <span className="text-amber-400 font-medium">João Vitor Rossi Ferreira</span>, mas pode me chamar só de Rossi! Tenho 19 anos e desde que me lembro sempre fui fascinado por tecnologia. Tudo começou quando tive meu primeiro contato com o YouTube e jogos, onde eu sonhava em criar experiências que conectassem pessoas através da minha visão de mundo.
+            Me chamo <span className="text-amber-400 font-medium">João Vitor Rossi Ferreira</span>, mas pode me chamar de Rossi! Tenho 20 anos e sou apaixonado por tecnologia desde criança. Meu interesse começou com jogos e vídeos no YouTube, mas evoluiu para um desejo de criar experiências digitais que conectem pessoas e resolvam problemas reais.
           </p>
 
           <p className="text-lg leading-relaxed">
-            Sou o tipo de desenvolvedor que <span className="text-amber-400">vira a noite resolvendo um bug</span> (já perdi as contas de quantas madrugadas passei codando), mas quando a solução finalmente aparece, a sensação é melhor que aquela primeira golada de coca-cola bem gelada num dia quente!
+            Sou movido por desafios e pela busca constante de evolução. Não é raro me ver virando noites codando, testando ideias novas ou resolvendo bugs complicados — a sensação de superar um obstáculo é o que me motiva a ir além. Gosto de pensar que cada linha de código que escrevo é uma oportunidade de impactar positivamente a vida de alguém.
           </p>
 
           <p className="text-lg leading-relaxed">
-            Quando não estou programando, você me encontra no <span className="text-amber-400">League of Legends</span> ou <span className="text-amber-400">Valorant</span> com os amigos, mergulhado em algum mangá que me faça pensar, ou explorando novas tecnologias que possam impactar positivamente a vida das pessoas.
+            Fora do mundo da programação, você vai me encontrar jogando <span className="text-amber-400">League of Legends</span> ou <span className="text-amber-400">Valorant</span> com os amigos, lendo mangás que me inspiram ou explorando novas tendências tecnológicas. Estou sempre em busca de aprender algo novo e de compartilhar conhecimento.
           </p>
 
           <div className="p-4 bg-gray-700/50 rounded-lg border-l-4 border-amber-400">
             <p className="text-lg italic">
-              "Acredito que <span className="text-amber-400">tecnologia deve ser acessível e humana</span>. Meu objetivo vai além de escrever código que funciona - quero criar soluções que realmente façam diferença na vida das pessoas. Se você também acredita nisso, <span className="text-amber-400">bora tomar um café</span> (virtual ou presencial) e trocar ideias!"
+              "Acredito que <span className="text-amber-400">tecnologia deve ser acessível, humana e transformadora</span>. Meu objetivo vai além de escrever código funcional — quero criar soluções que realmente façam diferença. Se você compartilha dessa visão, <span className="text-amber-400">vamos conversar</span> e trocar ideias!"
             </p>
           </div>
         </div>
